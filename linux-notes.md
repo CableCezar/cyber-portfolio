@@ -9,3 +9,6 @@
 
 ## Night 1 (12-10-2025)
 - Setup workspace and installed python, created venv
+
+## Night 2: basic file/navigation commands (12-10-2025)
+- commands practiced: ls, mkdir, touch, echo, cat, chmod, ps
