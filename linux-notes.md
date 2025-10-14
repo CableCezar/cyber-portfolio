@@ -16,3 +16,11 @@
 ## Night: text tools practice 14-10-2025
 - Practiced: grep, less, head, tail, wc, cut, sed, awk
 - Takeaway: grep filters, sed edits streams, awk handles fields
+
+## Night: TryHackMe module + LabEx 14-10-2025
+- Completed TryHackMe module 1 (cybersecurity)
+- LabEx: 1 hour completed
+- Notes: practiced basics, next: permissions/text tools
+
+## VSCode test 14-10-2025
+- Quick test: edited from VS Code terminal
