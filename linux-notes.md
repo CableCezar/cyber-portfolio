@@ -12,3 +12,7 @@
 
 ## Night 2: basic file/navigation commands (12-10-2025)
 - commands practiced: ls, mkdir, touch, echo, cat, chmod, ps
+
+## Night: text tools practice 14-10-2025
+- Practiced: grep, less, head, tail, wc, cut, sed, awk
+- Takeaway: grep filters, sed edits streams, awk handles fields
