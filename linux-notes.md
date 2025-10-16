@@ -28,3 +28,7 @@
 ## Linux Warmup Practice - 16-10-2025
 - Practiced: ls, mkdir, mv, cat, rm
 - Notes: Warmup in Linux environment (WSL) successful ✅
+
+## Linux Basics (nav & files) - 16-10-2025
+- Practiced: ls, mv, cp, cat, nl, head, tail
+- Notes: basics getting smoother ✅
