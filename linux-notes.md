@@ -24,3 +24,7 @@
 
 ## VSCode test 14-10-2025
 - Quick test: edited from VS Code terminal
+
+## Linux Warmup Practice - 16-10-2025
+- Practiced: ls, mkdir, mv, cat, rm
+- Notes: Warmup in Linux environment (WSL) successful ✅
